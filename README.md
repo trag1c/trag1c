@@ -2,7 +2,7 @@
 - 👨‍💻 I code in Python, Rust, and Samarium.
 - 🔭 Working on [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0)
 - 🌱 Learning [Flask](https://palletsprojects.com/p/flask/) & [Svelte](https://svelte.dev)
-- 📫 Get in touch on [Discord](https://discord.com): **trag1c#0001**
+- 📫 Get in touch on [Discord](https://discord.com/users/252206453878685697): **trag1c#0001**
 
 ## Projects
 - [Samarium](https://github.com/samarium-lang/Samarium) - an implementation of one of my programming languages.
