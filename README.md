@@ -11,6 +11,6 @@
 - [Crossandra](https://github.com/trag1c/crossandra) - a simple and decently configurable tokenization library for Python, based on enums and regular expressions.
 - [Ixia](https://github.com/trag1c/ixia) - a library connecting [secrets](https://docs.python.org/3/library/secrets.html)' security with [random](https://docs.python.org/3/library/random.html)'s versatility.
 
-## Also maintaining
+## Maintaining
 - [mCodingBot](https://github.com/mcb-dev/mCodingBot) - the Discord bot for the mCoding Discord server.
-- [Pincer](https://github.com/Pincer-org/Pincer) - the snappy asynchronous Discord API wrapper written with aiohttp.
+- (until Dec 26, 2022 💔) [Pincer](https://github.com/Pincer-org/Pincer) - the snappy asynchronous Discord API wrapper written with aiohttp.
