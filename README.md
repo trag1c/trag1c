@@ -1,6 +1,6 @@
 ## Hi 👋, I'm trag1c.
 - 👨‍💻 I code in Python, Rust, and Samarium.
-- 🔭 Working on [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0)
+- 🔭 Working on [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0) and [Paperbush](https://github.com/trag1c/paperbush)
 - 🌱 Learning [Flask](https://palletsprojects.com/p/flask/) & [Svelte](https://svelte.dev)
 - 📫 Get in touch on [Discord](https://discord.com/users/252206453878685697): **trag1c#0001**
 
