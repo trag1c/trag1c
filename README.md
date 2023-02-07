@@ -1,6 +1,6 @@
 ## Hi 👋, I'm trag1c.
 - 👨‍💻 I code in Python, Rust, and Samarium.
-- 🔭 Working on [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0) and [Paperbush](https://github.com/trag1c/paperbush)
+- 🔭 Working on [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0) and [Paperbush 0.2.0](https://github.com/trag1c/paperbush)
 - 🌱 Learning [Flask](https://palletsprojects.com/p/flask/) & [Svelte](https://svelte.dev)
 - 📫 Get in touch on [Discord](https://discord.com/users/252206453878685697): **trag1c#0001**
 
@@ -10,6 +10,7 @@
 - [Dahlia.rs](https://github.com/trag1c/Dahlia.rs) - Dahlia, but in Rust.
 - [Crossandra](https://github.com/trag1c/crossandra) - a simple and decently configurable tokenization library for Python, based on enums and regular expressions.
 - [Ixia](https://github.com/trag1c/ixia) - a library connecting [secrets](https://docs.python.org/3/library/secrets.html)' security with [random](https://docs.python.org/3/library/random.html)'s versatility.
+- [Paperbush](https://github.com/trag1c/paperbush) - a super concise argument parsing tool for Python.
 
 ## Maintaining
 - [mCodingBot](https://github.com/mcb-dev/mCodingBot) - the Discord bot for the mCoding Discord server.
