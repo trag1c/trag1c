@@ -12,6 +12,8 @@
 - [Ixia](https://github.com/trag1c/ixia) - a library connecting [secrets](https://docs.python.org/3/library/secrets.html)' security with [random](https://docs.python.org/3/library/random.html)'s versatility.
 - [Paperbush](https://github.com/trag1c/paperbush) - a super concise argument parsing tool for Python.
 
+I also made a [color theme](https://github.com/trag1c/gleam-theme) for VSCode!
+
 ## Maintaining
 - [mCodingBot](https://github.com/mcb-dev/mCodingBot) - the Discord bot for the mCoding Discord server.
 - (until Dec 26, 2022 💔) [Pincer](https://github.com/Pincer-org/Pincer) - the snappy asynchronous Discord API wrapper written with aiohttp.
