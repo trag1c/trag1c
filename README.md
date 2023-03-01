@@ -1,7 +1,7 @@
 ## Hi 👋, I'm trag1c.
 - 💻 I code in Python, Rust, and Samarium.
 - 🔭 Working on Tantalum and [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0)
-- 🌱 Learning [Flask](https://palletsprojects.com/p/flask/)
+- 🌱 Learning [V](https://vlang.io)
 - 📫 Get in touch on [Discord](https://discord.com/users/252206453878685697): **trag1c#0001**
 
 ## Projects
