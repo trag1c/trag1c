@@ -1,7 +1,6 @@
 ## Hi 👋, I'm trag1c.
 - 💻 I code in Python, Rust, and Samarium.
 - 🔭 Working on Tantalum, [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0), [Ixia 1.2.0](https://github.com/trag1c/ixia), [Paperbush 0.3.0](https://github.com/trag1c/paperbush) and [Crossandra 1.4.0](https://github.com/trag1c/crossandra)
-- 🌱 Learning [V](https://vlang.io)
 - 🤔 I need help with [Samarium 0.5.0](https://github.com/samarium-lang/Samarium/tree/0.5.0) and [Crossandra 1.4.0](https://github.com/trag1c/crossandra)
 - 📫 Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)!
 
