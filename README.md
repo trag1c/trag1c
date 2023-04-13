@@ -1,8 +1,6 @@
 ## Hi 👋, I'm trag1c.
-- 💻 I code in Python, Rust, and Samarium.
-- 🔭 Working on Tantalum, [Paperbush 0.3.0](https://github.com/trag1c/paperbush) and [Crossandra 1.4.0](https://github.com/trag1c/crossandra)
-- 🤔 I need help with [Crossandra 1.4.0](https://github.com/trag1c/crossandra)
-- 📫 Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)!
+I mostly code in Python, currently working on Tantalum and [Crossandra 1.4.0](https://github.com/trag1c/crossandra) (need help with the latter 😅).
+Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)! 🤙
 
 ## Projects
 - [Samarium](https://github.com/samarium-lang/Samarium) - an implementation of one of my programming languages.
