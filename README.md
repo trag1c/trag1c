@@ -1,5 +1,6 @@
 ## Hi 👋, I'm trag1c.
 I mostly code in Python, currently working on Tantalum and [Crossandra 1.4.0](https://github.com/trag1c/crossandra) (need help with the latter 😅).
+
 Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)! 🤙
 
 ## Projects
