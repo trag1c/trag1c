@@ -1,5 +1,5 @@
 ## Hi 👋, I'm trag1c.
-I mostly code in Python, currently working on Tantalum and [Samarium 0.6.0](https://github.com/samarium-lang/Samarium).
+I mostly code in Python, currently working on [Paperbush 0.3.0](https://github.com/trag1c/paperbush), [Samarium 0.6.0](https://github.com/samarium-lang/Samarium), and Tantalum.
 
 Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)! 🤙
 
