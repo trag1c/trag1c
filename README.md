@@ -9,6 +9,7 @@ Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)! 🤙
 - [Crossandra](https://github.com/trag1c/crossandra) - a simple and decently configurable tokenization library for Python, based on enums and regular expressions.
 - [Ixia](https://github.com/trag1c/ixia) - a library connecting [secrets](https://docs.python.org/3/library/secrets.html)' security with [random](https://docs.python.org/3/library/random.html)'s versatility.
 - [Paperbush](https://github.com/trag1c/paperbush) - a super concise argument parsing tool for Python.
+- [PEP Tracker](https://github.com/trag1c/pep-tracker) - a dead simple CLI tool for checking PEP updates.
 
 I also made a [color theme](https://github.com/trag1c/gleam-theme) for VSCode!
 
