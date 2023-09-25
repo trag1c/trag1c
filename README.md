@@ -1,7 +1,7 @@
 ## Hi 👋, I'm trag1c.
-I mostly code in Python, currently working on [Paperbush 0.3.0](https://github.com/trag1c/paperbush), [Samarium 0.6.0](https://github.com/samarium-lang/Samarium), and Tantalum.
+I mostly code in Python, currently working on [Crossandra 2.1.0](https://github.com/trag1c/crossandra), [Paperbush 0.3.0](https://github.com/trag1c/paperbush), [Samarium 0.6.0](https://github.com/samarium-lang/Samarium), Pepperbox and Tantalum.
 
-Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)! 🤙
+Get in touch on [Discord](https://discord.gg/CNQ4EYjC2J)!
 
 ## Projects
 - [Samarium](https://github.com/samarium-lang/Samarium) - an implementation of one of my programming languages.
