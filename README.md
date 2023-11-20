@@ -3,7 +3,6 @@ In love with Python, currently working on [outspin](https://github.com/trag1c/ou
 
 Get in touch!
 * Discord: `trag1c`, [my server](https://discord.gg/CNQ4EYjC2J)
-* my Discord server: [link](https://discord.gg/CNQ4EYjC2J)
 * email: [trag1cdev@yahoo.com](mailto:trag1cdev@yahoo.com)
 
 ## Projects
