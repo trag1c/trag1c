@@ -1,5 +1,5 @@
 ## Hey! I'm trag1c 👋
-In love with Python, currently working on [pepperbox](https://github.com/trag1c/pepperbox) and [dahlia](https://github.com/dahlia-lib).
+In love with Python, currently working on [outspin](https://github.com/trag1c/outspin) and [dahlia](https://github.com/dahlia-lib).
 
 Get in touch!
 * Discord: `trag1c`, [my server](https://discord.gg/CNQ4EYjC2J)
