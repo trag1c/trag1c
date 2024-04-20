@@ -1,5 +1,5 @@
 ## Hey! I'm trag1c 👋
-In love with Python, currently working on [Dahlia](https://github.com/dahlia-lib).
+In love with Python, currently exploring [Gleam](https://gleam.run) while working on [Dahlia](https://github.com/dahlia-lib).
 
 Get in touch!
 * Discord: `trag1c`, [my server](https://discord.gg/CNQ4EYjC2J)
